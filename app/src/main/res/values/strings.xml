@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasicMinesweeper</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="marking_mode">Marking Mode</string>
+    <string name="uncover_mode">Uncover Mode</string>
+    <plurals name="marked_mines">
+        <item quantity="one">Marked mine: %d</item>
+        <item quantity="other">Marked mines: %d</item>
+    </plurals>
+    <string name="total_mines">Total mines: %d</string>
+</resources>
